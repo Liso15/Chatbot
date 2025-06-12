@@ -9,7 +9,6 @@ CryptoBuddy is a friendly chatbot that helps you explore and compare cryptocurre
 
 - **Conversational Interface:** Ask questions in natural language about crypto trends, sustainability, and profitability.
 - **Predefined Crypto Data:** Compares Bitcoin, Ethereum, and Cardano using sample data.
-- **NLP Support:** Uses NLTK to better understand user queries.
 - **Ethics Disclaimer:** Reminds users that crypto investing is risky.
 
 ---
